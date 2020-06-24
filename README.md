@@ -101,6 +101,13 @@ La aplicación no funciona si se omiten los siguientes directorios:
 La aplicación necesita derechos de escritura para poder operar. 
  
 Cualquier error de funcionamiento enviar por correo electrónico los archivos que se encuentren dentro de la carpeta log. 
+
+Changelog:
+ 
+- 20200520
+	* Se Convierte a proyecto maven
+	* Se ajusta referencias y licencia.
+
  
 Linux Advertencia: Algunos comandos no funcionan debido a que se desarrollo para uso inicial en Windows. 
 

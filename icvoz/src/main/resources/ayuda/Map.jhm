@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE map
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/map_1_0.dtd">
+
+<map version="1.0">
+	<mapID target="toplevelfolder" url="images/help.gif" />
+	<mapID target="top" url="help/icvoz.html" />
+	<mapID target="autores" url="help/autores.html" />
+	<mapID target="autores.terceros" url="help/autores.html#terceros" />
+	<mapID target="autores.colaboradores" url="help/autores.html#colaboradores" />
+	<mapID target="intro" url="help/introducion.html" />
+
+	<!-- Antes de Empezar -->
+	<mapID target="requerimientos" url="help/requerimientos.html" />
+	<mapID target="requerimientos.hardware" url="help/requerimientos.html#hardware" />
+	<mapID target="requerimientos.software" url="help/requerimientos.html#software" />
+	<mapID target="menu" url="help/menu.html" />
+	<mapID target="licencia" url="help/licencia.html" />
+	<mapID target="derechos" url="help/derechos.html" />
+	<mapID target="segurida" url="help/segurida.html" />
+	
+
+	<!-- Perfiles -->
+	<mapID target="perfil.descripcion" url="help/perfil.html" />
+	<mapID target="perfil.predeterminado" url="help/perfil.html#predeterminado" />
+	<mapID target="perfil.nuevo" url="help/perfil.html#nuevo" />
+	<mapID target="perfil.borrar" url="help/perfil.html#borrar" />
+	
+	<!-- Comandos -->
+	<mapID target="cmd.descripcion" url="help/comando.html" />
+	<mapID target="comandos" url="help/comandos.html" />
+	<mapID target="cmd.activacion" url="help/comando.html#activacion" />
+	<mapID target="cmd.modificacion" url="help/comando.html#modificacion" />
+	
+	
+
+</map>

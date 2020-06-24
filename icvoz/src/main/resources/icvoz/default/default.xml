@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+        Archivo				: default.xml
+        Version				: 1.0.0		2007-07-03
+ 
+        Todos los derechos reservados.  Usar bajo terminos de la licensia.
+  
+        Ver archivo "licensia.txt" para informacion de como usar y
+        distrubuir este archvio, y para garantizar las responsabilidades 
+        adquiridas.
+
+-->
+<default>
+    <perfil>Todos</perfil>
+    <comandos>
+        <comando nombre="enter" codigo="icvoz00" tecla="VK_ENTER">
+            <nombre>Enter</nombre>
+            <archivo>enter.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Enter</descripcion>
+        </comando>
+        <comando nombre="arriba" codigo="icvoz01" tecla="VK_UP">
+            <nombre>Arriba</nombre>
+            <archivo>arriba.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Flecha Arriba</descripcion>
+        </comando>
+        <comando nombre="abajo" codigo="icvoz02" tecla="VK_DOWN">
+            <nombre>Abajo</nombre>
+            <archivo>abajo.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Flecha Abajo</descripcion>
+        </comando>
+        <comando nombre="izquierda" codigo="icvoz03" tecla="VK_LEFT">
+            <nombre>Izquierda</nombre>
+            <archivo>izquierda.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Flecha Izquierda</descripcion>
+        </comando>
+        <comando nombre="derecha" codigo="icvoz04" tecla="VK_RIGHT">
+            <nombre>Derecha</nombre>
+            <archivo>derecha.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Flecha Derecha</descripcion>
+        </comando>
+        <comando nombre="copiar" codigo="icvoz05" tecla="VK_C" modificador="VK_CONTROL">
+            <nombre>Copiar</nombre>
+            <archivo>copiar.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Crtl+C</descripcion>
+        </comando>
+        <comando nombre="cortar" codigo="icvoz06" tecla="VK_X" modificador="VK_CONTROL">
+            <nombre>Cortar</nombre>
+            <archivo>cortar.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Crtl+X</descripcion>
+        </comando>
+        <comando nombre="pegar" codigo="icvoz07" tecla="VK_V" modificador="VK_CONTROL">
+            <nombre>Pegar</nombre>
+            <archivo>pegar.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Crtl+V</descripcion>
+        </comando>
+        <comando nombre="deshacer" codigo="icvoz08" tecla="VK_Z" modificador="VK_CONTROL">
+            <nombre>Deshacer</nombre>
+            <archivo>deshacer.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Crtl+Z</descripcion>
+        </comando>
+        <comando nombre="menu" codigo="icvoz09" tecla="VK_CONTEXT_MENU">
+            <nombre>Menu</nombre>
+            <archivo>menu.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Menu</descripcion>
+        </comando>
+        <comando nombre="salir" codigo="icvoz10" tecla="VK_ESCAPE">
+            <nombre>Salir</nombre>
+            <archivo>salir.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Esc</descripcion>
+        </comando>
+        <comando nombre="inicio" codigo="icvoz11" tecla="VK_WINDOWS">
+            <nombre>Inicio</nombre>
+            <archivo>inicio.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Win (Windows)</descripcion>
+        </comando>
+        <comando nombre="alternar" codigo="icvoz12" tecla="VK_TAB" modificador="VK_ALT">
+            <nombre>Alternar</nombre>
+            <archivo>alternar.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Tab (Tabulador)</descripcion>
+        </comando>
+        <comando nombre="explorador" codigo="icvoz13" tecla="VK_E" modificador="VK_WINDOWS">
+            <nombre>Explorador</nombre>
+            <archivo>explorador.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Win+E</descripcion>
+        </comando>
+        <comando nombre="cerrar" codigo="icvoz14" tecla="VK_F4" modificador="VK_ALT">
+            <nombre>Cerrar</nombre>
+            <archivo>cerrar.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Alt+F4</descripcion>
+        </comando>
+        <comando nombre="guardar" codigo="icvoz15" tecla="VK_G" modificador="VK_CONTROL">
+            <nombre>Guardar</nombre>
+            <archivo>guardar.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Ctrl+G</descripcion>
+        </comando>
+        <comando nombre="borrar" codigo="icvoz16" tecla="VK_DELETE">
+            <nombre>Borrar</nombre>
+            <archivo>borrar.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Supr</descripcion>
+        </comando>
+        <comando nombre="seleccionar" codigo="icvoz17" tecla="VK_A" modificador="VK_CONTROL">
+            <nombre>Seleccionar</nombre>
+            <archivo>seleccionar.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Ctrl+A</descripcion>
+        </comando>
+        <comando nombre="escritorio" codigo="icvoz18" tecla="VK_D" modificador="VK_WINDOWS">
+            <nombre>Escritorio</nombre>
+            <archivo>escritorio.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla Win+D</descripcion>
+        </comando>
+        <comando nombre="ayuda" codigo="icvoz19" tecla="VK_F1">
+            <nombre>Ayuda</nombre>
+            <archivo>ayuda.wav</archivo>
+            <habilitado>true</habilitado>
+            <descripcion>Presiona la tecla F1</descripcion>
+        </comando>
+    </comandos>
+    <descripcion>Comados de Voz para todos los usuarios</descripcion>
+</default>

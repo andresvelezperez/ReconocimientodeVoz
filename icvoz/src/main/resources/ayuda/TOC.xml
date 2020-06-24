@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 2.0//EN"
+         "../dtd/toc_2_0.dtd">
+<toc version="2.0">
+<tocitem text="Ayuda" image="toplevelfolder" target="top">
+
+   <tocitem text="Introducion" target="intro"/>
+
+	<tocitem text="Antes de Empezar" expand="true">
+       <tocitem text="Requerimientos" target="requerimientos"/>
+       <tocitem text="Menu Principal" target="menu"/>
+       <tocitem text="Autores" target="autores"/>
+       <tocitem text="Licencia" target="licencia"/>
+       <tocitem text="Copyright" target="derechos"/>
+       <tocitem text="Advertencia" target="segurida"/>
+   </tocitem>
+	
+
+   <tocitem text="Perfiles" target="start" expand="false">
+       <tocitem text="Descripcion" target="perfil.descripcion"/>
+       <tocitem text="Perfil predeterminado" target="perfil.predeterminado"/>
+       <tocitem text="Nuevo" target="perfil.nuevo"/>
+       <tocitem text="Borrar" target="perfil.borrar"/>
+   </tocitem>
+   
+	<tocitem text="Comandos" target="start" expand="false">
+		<tocitem text="Comandos" target="comandos"/>
+		<tocitem text="Descripcion" target="cmd.descripcion"/>
+		<tocitem text="Activacion" target="cmd.activacion"/>
+		<tocitem text="Modificacion" target="cmd.modificacion"/>
+	</tocitem>
+
+</tocitem>
+</toc>

@@ -1,0 +1,46 @@
+LICENCIA
+INTERPRETADOR DE COMANDOS DE VOZ ICVOZ
+
+Copyrigth © 2006 - 2020 Andres Velez Perez 
+
+Licencia Versión: 1.0 2006
+
+Este software (Icvoz) solo puede ser utilizado si se está de acuerdo con las condiciones de uso establecidas en este documento. Si usted no está de acuerdo con los límites que imponen los términos definidos en este documento, no debe usar el Software, y deberá desinstalar la aplicación (Icvoz).
+
+El usuario que posea esta aplicación, podrá distribuirlo libremente sin costo alguno, sin realizar cambios o modificaciones a los archivos originales de la aplicación, así se incluya el código fuente en el medio que se distribuya esta aplicación. 
+
+El usuario poseedor no podrá realizar trabajos dependientes del código (entiéndase como modificación del código), ni tampoco como una librería para sus propias aplicaciones. El usuario no podrá distribuir partes del código (si este es incluido), ni tampoco partes de la aplicación.
+
+Esta licencia aplica para el producto desarrollado por los autores, la licencia para código de terceros, librerías u otras, dependen de sus correspondientes autores. Remitirse a ellas para más información.
+
+Este Software se proporciona "COMO ES", no se dará garantía de ningún tipo, tampoco se garantiza su funcionamiento y si en algún caso el Software produce daños o perjuicios por el mal uso de este o solamente por usarlo, los autores no se hacen responsable en ningún caso por lo sucedido, así se haya informado o no de la posibilidad de ocurrir dicho daño.
+
+El usuario acepta la licencia con tener instalado una copia en el computador, en caso contrario el usuario deberá borrar y eliminar la instalación que posea.
+
+
+
+
+Licencia TERCEROS
+
+Librerías y códigos utilizados en el Interpretador de Comandos de Voz (ICVOZ) con una licencia GNU o compatible. 
+
+Audacity is trademarks or registered trademarks of Developers and Contributors.
+(http://audacity.sourceforge.net/)
+FILE: FTT.java
+VER: license-GPL.txt
+
+JDOM is trademarks or registered trademarks of Jason Hunter & Brett McLaughlin (JDOM Project). (http://www.jdom.org/).
+FILE: jdom.jar
+VER: license-JDOM.txt
+
+Network.java (Version 1.0) is released under the limited GNU public license (LGPL). Written in 2002 by Jeff Heaton (http://www.jeffheaton.com).
+FILE: Network.java
+VER: license-LGPL.txt
+
+Sphinx-4 Speech Recognition System are trademarks or registered trademarks of Copyright 1999-2004 Carnegie Mellon University. Portions Copyright 2004 Sun Microsystems, Inc. Portions Copyright 2004 Mitsubishi Electric Research Laboratories.All Rights Reserved. 	(http://cmusphinx.sourceforge.net/sphinx4).
+FILE: MelFilter.java, MelFrequencyFilterBank.java, DiscreteCosineTransform
+VER: license.terms
+
+Las licencias mencionadas aquí se encuentran en la carpeta Licencia.
+
+El resto de los productos y nombres de compañías no mencionados aquí pueden ser marcas registradas de sus respectivos propietarios.

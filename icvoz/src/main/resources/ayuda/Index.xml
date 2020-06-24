@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+
+<index version="1.0">
+   <indexitem text="Advertencia" target="segurida"/>
+   <indexitem text="Autores" target="autores"/>
+   <indexitem text="Codigo" target="autores.terceros"/>
+   <indexitem text="Comandos" target="comandos"/>
+   
+   <indexitem text="Comandos" expand="false">
+   	  <indexitem text="activacion" target="cmd.activacion"/>
+   	  <indexitem text="descripcion" target="cmd.descripcion"/>
+      <indexitem text="modificacion" target="cmd.modificacion"/>
+   </indexitem>
+   
+   <indexitem text="Derechos" target="derechos"/>
+   <indexitem text="Hardware" target="requerimientos.hardware"/>
+   <indexitem text="Librerias" target="autores.terceros"/>
+   <indexitem text="Licencia" target="licencia"/>
+   <indexitem text="Menu" target="menu"/>
+   
+   <indexitem text="Perfiles" expand="false">
+   	  <indexitem text="borrar" target="perfil.borrar"/>
+   	  <indexitem text="nuevo" target="perfil.nuevo"/>
+      <indexitem text="predeterminado" target="perfil.predeterminado"/>
+   </indexitem>
+   
+   <indexitem text="Requerimientos" target="requerimientos"/>
+   <indexitem text="Software" target="requerimientos.software"/>
+
+</index>

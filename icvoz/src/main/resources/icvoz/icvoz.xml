@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+        Archivo				: icvoz.xml
+        Version				: 1.0.0		2007-07-03
+ 
+        Todos los derechos reservados.  Usar bajo terminos de la licensia.
+  
+        Ver archivo "licensia.txt" para informacion de como usar y
+        distrubuir este archvio, y para garantizar las responsabilidades 
+        adquiridas.
+
+-->
+<icvoz>
+    <nombre>Interpretador de Comandos de Voz</nombre>
+    <perfil>default</perfil>
+    <perfiles>
+        <perfil>
+            <nombre>default</nombre>
+            <editable>true</editable>
+        </perfil>
+    </perfiles>
+</icvoz>

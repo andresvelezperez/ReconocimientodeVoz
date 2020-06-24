@@ -1,0 +1,1 @@
+Poner en esta carpeta el archivo .jar y ejecutar el .bat correspondiente.
